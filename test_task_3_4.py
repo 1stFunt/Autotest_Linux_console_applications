@@ -1,5 +1,5 @@
 import pytest
-from _3_4 import checkout_text, getout
+from Task_3_4 import checkout_text, getout
 
 folder_out = "/home/funt/folder_out/"
 folder_ext = "/home/funt/folder_ext/"
