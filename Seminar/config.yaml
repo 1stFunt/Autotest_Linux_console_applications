@@ -1,6 +1,6 @@
-folder_in: /home/zerg/tst
-folder_out: /home/zerg/out
-folder_ext: /home/zerg/folder1
-folder_ext2: /home/zerg/folder2
+folder_in: /home/funt/tst
+folder_out: /home/funt/out
+folder_ext: /home/funt/folder1
+folder_ext2: /home/funt/folder2
 count: 5
 bs: 1M
